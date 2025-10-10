@@ -1,4 +1,6 @@
-# LUNAR WORLD : Fantasy AR Mobile Game
+<p align="left">
+  <img src="./imgs/big_title.png" width="100%">
+</p>
 
 <br>
 
@@ -43,11 +45,11 @@
 ## 🏛️ 화면 흐름도
 
 
-| **현실 화면** | **GPS 맵 화면** | **AR 전투 화면** |
+| **GPS 맵 화면** | **악의 스팟 화면** | **AR 전투 화면** |
 | :---: |:---:|:---:|
-| 실제 플레이어가 위치한 현실 공간 | GPS를 통해 '악의 스팟'을 찾아가는 게임 내 맵 | '악의 스팟' 도착 시 현실 배경 위에 드래곤이 나타나는 전투 화면 |
-| <img src="https://github.com/user-attachments/assets/b2488a0e-4ddb-449e-8c82-1dd7f4007b8a" width="200"/> | <img src="https://github.com/user-attachments/assets/7b587d60-7117-48f8-b327-0bb183a6b83f" width="200"/> | <img src="https://github.com/user-attachments/assets/05b1c4b1-e737-4d6d-8884-60c7f26f21c2" width="200"/> |
-
+| <img src="./imgs/map.png" width="100%"> | <img src="./imgs/evil.png" width="100%"> | <img src="./imgs/game.png" width="95%"> |
+| GPS를 통해 '악의 스팟'을 찾아가는 게임 내 맵 | '악의 스팟' 도착시 핸드폰을 AR 화면으로 전환 | 현실 배경 위에 드래곤이 나타나는 전투 화면 |
+  
 <br>
 
 ## 🛠️ 기술 스택
