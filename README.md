@@ -2,7 +2,15 @@
 
 <br>
 
-## 📖 프로젝트 개요 (Overview)
+[![Unity](https://img.shields.io/badge/Unity-2022.3.62f1-black?logo=unity)](https://unity.com/)
+[![AR Foundation](https://img.shields.io/badge/AR_Foundation-Unity-grey)](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/index.html)
+[![AR Core](https://img.shields.io/badge/AR_Core-Google-orange?logo=google)](https://developers.google.com/ar)
+[![Mapbox](https://img.shields.io/badge/Mapbox-SDK-4264fb?logo=mapbox)](https://www.mapbox.com/)
+[![Android](https://img.shields.io/badge/Android-Platform-3DDC84?logo=android)](https://www.android.com/)
+
+<br>
+
+## 📖 프로젝트 개요
 
 **현실 세계를 무대로 AR 포탈 전투를 즐기는 위치 기반 액션 슈팅 게임**
   
@@ -11,7 +19,7 @@
 
 <br>
 
-## 🚀 주요 기능 (Key Features)
+## 🚀 주요 기능
 
 #### 1. 위치기반 맵 시스템 (GPS-based Map System)
 
@@ -32,7 +40,7 @@
 
 <br>
 
-## 🏛️ 화면 흐름도 (Screen Flow)
+## 🏛️ 화면 흐름도
 
 
 | **현실 화면** | **GPS 맵 화면** | **AR 전투 화면** |
@@ -42,22 +50,22 @@
 
 <br>
 
-## 🛠️ 기술 스택 (Tech Stack)
+## 🛠️ 기술 스택
 
 | 구분 | 기술 |
 | :--- | :--- |
-| **게임 엔진** | Unity |
-| **AR** | AR Foundation 등 AR SDK |
-| **지도** | Mapbox SDK |
-| **플랫폼** | Mobile |
+| **게임 엔진** | Unity 2022.3.62f1 |
+| **AR** | AR Foundation, AR Core |
+| **지도** | GPS, Mapbox SDK |
+| **플랫폼** | Mobile(Android) |
 
 <br>
 
-## 🤔 회고 (Retrospective)
+## 🤔 회고
 
 프로젝트 발표 자료의 '개선 과정'을 통해 개발 과정에서의 고민과 결과물을 정리했습니다.
 
-#### 개선 사항 (Improvements)
+#### 개선 사항
 
 1.  **맵(MAP) 기능 개선**
     -   **건물 디자인**: Mapbox SDK의 기본 건물에 에셋을 붙이는 방식에서, 특정 구역의 건물을 자동으로 에셋으로 변환하고 최적화하여 시각적 완성도를 높였습니다.
@@ -68,7 +76,7 @@
     -   **UI**: 단순한 체력바 형태에서 하트 아이콘과 드래곤 아이콘을 사용하는 형태로 변경하여 가시성을 높였습니다.
     -   **무기**: 기본 에셋을 사용하던 무기를 마법구 형태로 변경하고, 타격감을 개선하여 전투의 재미를 강화했습니다.
 
-#### 배운 점 (What I Learned)
+#### 배운 점
 
 -   **사용자 경험(UX) 중심의 반복적 개발**: 초기 버전의 불편한 점(시점, UI 등)을 파악하고, 미니맵 추가, 시점 변경, UI 개선 등 사용자 경험을 향상시키기 위한 반복적인 개발 과정을 통해 더 나은 결과물을 만들 수 있었습니다.
 -   **다양한 기술의 융합**: 위치 기반 서비스(Mapbox), 증강현실(AR), 3D 그래픽 등 여러 기술을 하나의 프로젝트에 성공적으로 융합하는 경험을 했습니다.
