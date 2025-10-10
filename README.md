@@ -47,7 +47,7 @@
 
 | **GPS 맵 화면** | **악의 스팟 화면** | **AR 전투 화면** |
 | :---: |:---:|:---:|
-| <img src="./imgs/map.png" width="100%"> | <img src="./imgs/evil.png" width="100%"> | <img src="./imgs/game.png" width="95%"> |
+| <img src="./imgs/map2.png" width="98%"> | <img src="./imgs/evil.png" width="90%"> | <img src="./imgs/game.png" width="85%"> |
 | GPS를 통해 '악의 스팟'을 찾아가는 게임 내 맵 | '악의 스팟' 도착시 핸드폰을 AR 화면으로 전환 | 현실 배경 위에 드래곤이 나타나는 전투 화면 |
   
 <br>
